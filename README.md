@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenisPlima
-- 👀 I’m interested in Research about MAnycore Mapping
+- 👀 I’m interested in Research about Manycore Mapping
 - 🌱 I’m currently learning R Language, but in specialist in Mathscript
 - 📫 denis@ufscar.br
 
