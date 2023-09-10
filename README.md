@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @DenisPlima
-- 👀 I’m interested in Research about Manycore Mapping
-- 🌱 I’m currently learning R Language, but in specialist in Mathscript
+- 👀 I’m interested in Dveloping new Skills.
+- 🌱 I’m currently learning Java, JPA, MAVEN, JSP and JDBC.
+- Computer Scientist.
+- Phd in Computer Science.
 - 📫 denis@ufscar.br
 
 <!---
