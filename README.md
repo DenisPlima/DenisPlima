@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenisPlima
-- 👀 I’m interested in Dveloping new Skills.
+- 👀 I’m interested in Developing new Skills.
 - 🌱 I’m currently learning Java, JPA, MAVEN, JSP and JDBC.
 - Computer Scientist.
 - Phd in Computer Science.
